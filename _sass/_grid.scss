@@ -15,7 +15,7 @@
 */
 
 
-.justify-items-end     {justify-items: end}
+.justify-items-end     {justify-items: end;}
 .justify-content-end   {justify-content: end;}
 
 .justify-self-start    {justify-self: start;}
@@ -27,6 +27,8 @@
 .align-self-end      {align-self: end;}
 .align-self-center   {align-self: center;}
 .align-self-stretch  {align-self: stretch;}
+
+.align-items-center   {align-items: center;}
 
 .place-self-start    {place-self: start;}
 .place-self-end      {place-self: end;}
@@ -254,8 +256,8 @@
 /*
     VARIABLES
 */
+@media #{$breakpoint-not-small} {
 
-@media (--breakpoint-not-small) {
  .grid-ns { display: grid; }
  .ga0-ns { gap: 0; }
  .ga1-ns { gap: .25rem; }
@@ -318,7 +320,8 @@
  .row-end-6-ns { grid-row-end: 6; }
 }
 
-@media (--medium) {
+
+@media #{$breakpoint-medium} {
  .grid-m { display: grid; }
  .ga0-m { gap: 0; }
  .ga1-m { gap: .25rem; }
@@ -379,7 +382,8 @@
  .row-end-5-m { grid-row-end: 5; }
  .row-end-6-m { grid-row-end: 6; }
 }
-@media (--large) {
+
+@media #{$breakpoint-large} {
  .grid-l { display: grid; }
  .ga0-l { gap: 0; }
  .ga1-l { gap: .25rem; }
