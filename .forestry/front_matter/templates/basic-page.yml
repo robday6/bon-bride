@@ -8,8 +8,15 @@ fields:
   label: Title
   default: About
 - type: textarea
-  name: Layout
+  name: layout
   label: Template
-  default: Default
+  default: default
+  description: default, post or pages (Must be lowercase)
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+    required: true
+  hidden: true
 pages:
 - about.md
