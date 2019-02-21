@@ -63,7 +63,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
-  jekyll-menus (~> 0.6.0)
+  jekyll-menus
 
 BUNDLED WITH
    1.16.5
