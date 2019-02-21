@@ -1,0 +1,15 @@
+---
+label: Home
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Template
+  name: layout
+  description: default, home, post & page (must be lowercase)
+- type: file
+  name: hero-image
+  label: Image
+  description: hero image
+pages:
+- index.md
