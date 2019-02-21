@@ -27,36 +27,42 @@ fields:
 - type: text
   name: caption-1
   label: Caption 1
+  default: bb:01
 - type: file
   name: image-2
   label: Image 2
 - type: text
   name: caption-2
   label: Caption 2
+  default: bb:02
 - type: file
   label: Image 3
   name: image-3
 - type: text
   name: caption-3
   label: Caption 3
+  default: bb:03
 - type: file
   name: image-4
   label: Image 4
 - type: text
   name: caption-4
   label: Caption 4
+  default: bb:04
 - type: file
   name: image-5
   label: Image 5
 - type: text
   name: caption-5
   label: Caption 5
+  default: bb:05
 - type: file
   name: image-6
   label: Image 6
 - type: text
   name: caption-6
   label: Caption 6
+  default: bb:06
 - type: file
   name: image-7
   label: Image 7
@@ -69,5 +75,38 @@ fields:
 - type: text
   label: Caption 8
   name: caption-8
+  default: bb:08
+- type: text
+  name: cat-number-1
+  label: Cat. number 1
+  default: bb:01
+- type: text
+  label: Cat. number 2
+  name: cat-number-2
+  default: bb:02
+- type: text
+  name: cat-number-3
+  label: Cat. number 3
+  default: bb:03
+- type: text
+  name: cat-number-4
+  label: Cat. number 4
+  default: bb:04
+- type: text
+  name: cat-number-5
+  label: Cat. number 5
+  default: bb:05
+- type: text
+  name: cat-number-6
+  label: Cat. number 6
+  default: bb:06
+- type: text
+  name: cat-number-7
+  label: Cat. number 7
+  default: bb:07
+- type: text
+  name: cat-number-8
+  label: Cat. number 8
+  default: bb:08
 pages:
 - index.md
