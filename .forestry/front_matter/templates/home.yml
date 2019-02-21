@@ -16,5 +16,9 @@ fields:
   name: logo
   label: logo
   default: "/uploads/logo-white.svg"
+- type: boolean
+  name: white
+  label: White
+  default: false
 pages:
 - index.md
