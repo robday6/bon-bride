@@ -8,11 +8,8 @@ fields:
   label: Title
   default: About
 - type: textarea
-  name: intro
-  label: Intro
-  default: This is the about page
-- type: file
-  name: hero-image
-  label: Image
+  name: Layout
+  label: Template
+  default: Default
 pages:
 - about.md
