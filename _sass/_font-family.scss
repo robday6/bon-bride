@@ -12,9 +12,19 @@
 
 */
 
+@font-face {
+    font-family: 'Acre';
+    src: url('../assets/fonts/Acre-Medium.woff2') format('woff2'),
+        url('../assets/fonts/Acre-Medium.woff') format('woff'),
+        url('../assets/fonts/Acre-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 
 .sans-serif {
-  font-family: -apple-system, BlinkMacSystemFont,
+  font-family: 'Acre', -apple-system, BlinkMacSystemFont,
                'avenir next', avenir,
                'helvetica neue', helvetica,
                ubuntu,

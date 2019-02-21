@@ -1,37 +1,19 @@
-{% if page.white == "true" %}
-<header class="sans-serif w-100">
+<header class="ttu tracked sans-serif w-100">
 	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
-		<div class="pa5">
+		<div class="pa5-ns pa4">
 			<div class="fl">
-				<a class="link dim white dib mr3" href="/" >Collection</a>
-	            <a class="link dim white dib mr3" href="/" >About us</a> 
+				<a class="f5 link dim white dib mr3" href="/" >Collection</a>
+	            <a class="f5 link dim white dib mr3" href="/" >About</a> 
 			</div>
 
-			<a class="fr link dim white dib" href="/" >Contact us</a> 
+			<a class="f5 fr link dim white dib" href="/" >Contact</a> 
 		</div>
 
-		<div class="ma5 mt6">
+		<div class="ma5 mt7 mt6-ns">
 			<img src="{{ site.baseurl }}{{ page.logo}}">
 		</div>
 	</div>
 </header>
 
 
-{% else %}
-<header class="sans-serif w-100">
-	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
-		<div class="pa5">
-			<div class="fl">
-				<a class="link dim black dib mr3" href="/" >Collection</a>
-	            <a class="link dim black dib mr3" href="/" >About us</a> 
-			</div>
 
-			<a class="fr link dim black dib" href="/" >Contact us</a> 
-		</div>
-
-		<div class="ma5 mt6">
-			<img src="{{ site.baseurl }}{{ page.logo}}">
-		</div>
-	</div>
-</header>
-{% endif %}
