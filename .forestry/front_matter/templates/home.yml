@@ -27,5 +27,17 @@ fields:
 - type: text
   name: caption-1
   label: Caption 1
+- type: file
+  name: image-2
+  label: Image 2
+- type: text
+  name: caption-2
+  label: Caption 2
+- type: file
+  label: Image 3
+  name: image-3
+- type: text
+  name: caption-3
+  label: Caption 3
 pages:
 - index.md
