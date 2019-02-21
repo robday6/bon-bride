@@ -4,6 +4,8 @@ title: Home page
 hero-image: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
 logo: "/uploads/logo-white.svg"
 white: true
+image-1: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
+caption-1: 'Test caption '
 
 ---
 Hello!
