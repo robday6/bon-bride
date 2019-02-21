@@ -1,4 +1,4 @@
-{% if white == "true" %}
+{% if page.white == "true" %}
 <header class="sans-serif w-100">
 	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
 		<div class="pa5">
@@ -16,9 +16,8 @@
 	</div>
 </header>
 
-{% endif %}
 
-{% if white == "false" %}
+{% else %}
 <header class="sans-serif w-100">
 	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
 		<div class="pa5">
