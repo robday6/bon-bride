@@ -5,11 +5,11 @@ hero-image: "/uploads/2018.11.26_BB_-1089-1.jpg"
 logo: "/uploads/logo-white.svg"
 white: true
 image-1: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
-caption-1: 'Test caption '
+caption-1: 'bb:01 '
 image-2: ''
-caption-2: ''
+caption-2: 'bb:02 '
 image-3: ''
-caption-3: ''
+caption-3: bb:02
 image-4: ''
 caption-4: ''
 image-5: ''
