@@ -20,5 +20,10 @@ fields:
   name: white
   label: White
   default: false
+- type: blocks
+  template_types:
+  - collection
+  label: Image 1
+  name: image-1
 pages:
 - index.md
