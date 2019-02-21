@@ -3,7 +3,7 @@ layout: home
 title: Home page
 hero-image: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
 logo: "/uploads/logo-white.svg"
-white: false
+white: true
 
 ---
 Hello!
