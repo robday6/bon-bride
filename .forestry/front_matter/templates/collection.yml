@@ -2,4 +2,12 @@
 label: Collection
 hide_body: false
 is_partial: true
-fields: []
+fields:
+- type: file
+  name: image-1
+  label: Image 1
+  description: The first image on the page
+- type: text
+  name: caption-1
+  label: Caption 1
+  description: The caption for image 1
