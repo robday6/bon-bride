@@ -1,11 +1,25 @@
 ---
 layout: home
 title: Home page
-hero-image: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
+hero-image: "/uploads/2018.11.26_BB_-1089-1.jpg"
 logo: "/uploads/logo-white.svg"
 white: true
 image-1: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
 caption-1: 'Test caption '
+image-2: ''
+caption-2: ''
+image-3: ''
+caption-3: ''
+image-4: ''
+caption-4: ''
+image-5: ''
+caption-5: ''
+image-6: ''
+caption-6: ''
+image-7: ''
+caption-7: ''
+image-8: ''
+caption-8: ''
 
 ---
 Hello!
