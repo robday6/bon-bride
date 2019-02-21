@@ -1,3 +1,24 @@
+{% if white == "true" %}
+<header class="sans-serif w-100">
+	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
+		<div class="pa5">
+			<div class="fl">
+				<a class="link dim white dib mr3" href="/" >Collection</a>
+	            <a class="link dim white dib mr3" href="/" >About us</a> 
+			</div>
+
+			<a class="fr link dim white dib" href="/" >Contact us</a> 
+		</div>
+
+		<div class="ma5 mt6">
+			<img src="{{ site.baseurl }}{{ page.logo}}">
+		</div>
+	</div>
+</header>
+
+{% endif %}
+
+{% if white == "false" %}
 <header class="sans-serif w-100">
 	<div class="cover bg-left bg-center-l vh-100" style="background-image: url({{ site.baseurl }}{{ page.hero-image }}">
 		<div class="pa5">
@@ -9,9 +30,9 @@
 			<a class="fr link dim black dib" href="/" >Contact us</a> 
 		</div>
 
-		<div>
+		<div class="ma5 mt6">
 			<img src="{{ site.baseurl }}{{ page.logo}}">
 		</div>
 	</div>
 </header>
-
+{% endif %}
