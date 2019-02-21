@@ -20,10 +20,12 @@ fields:
   name: white
   label: White
   default: false
-- type: blocks
-  template_types:
-  - collection
-  label: Image 1
+- type: file
   name: image-1
+  label: Image 1
+  description: The first image in the collections section
+- type: text
+  name: caption-1
+  label: Caption 1
 pages:
 - index.md
