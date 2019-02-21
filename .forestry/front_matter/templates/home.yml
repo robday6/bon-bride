@@ -11,3 +11,5 @@ fields:
   name: hero-image
   label: Image
   description: hero image
+pages:
+- index.md
