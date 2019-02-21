@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home page
+hero-image: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
 
 ---
 Hello!
