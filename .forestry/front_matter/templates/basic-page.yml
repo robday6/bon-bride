@@ -14,3 +14,5 @@ fields:
 - type: file
   name: hero-image
   label: Image
+pages:
+- about.md
