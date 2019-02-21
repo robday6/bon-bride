@@ -8,8 +8,9 @@ fields:
   label: Title
   default: About
 - type: textarea
-  name: Layout
+  name: layout
   label: Template
-  default: Default
+  default: default
+  description: default, page or post (must be lowercase)
 pages:
 - about.md
