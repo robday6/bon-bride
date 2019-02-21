@@ -12,6 +12,6 @@ fields:
   label: Template
   default: default
   description: default, page or post (must be lowercase)
-  hidden: true
+  hidden: false
 pages:
 - about.md
