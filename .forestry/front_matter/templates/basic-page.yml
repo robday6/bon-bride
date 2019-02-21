@@ -1,0 +1,14 @@
+---
+label: Basic page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: intro
+  label: Intro
+- type: file
+  name: hero-image
+  label: Image
