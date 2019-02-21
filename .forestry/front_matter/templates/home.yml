@@ -7,9 +7,14 @@ fields:
   label: Template
   name: layout
   description: default, home, post & page (must be lowercase)
+  default: home
 - type: file
   name: hero-image
   label: Image
   description: hero image
+- type: file
+  name: logo
+  label: logo
+  default: "/uploads/logo-white.svg"
 pages:
 - index.md
