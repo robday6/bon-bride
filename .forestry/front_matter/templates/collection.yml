@@ -70,6 +70,12 @@ fields:
 - type: text
   name: caption-9
   label: Caption 9
+- type: file
+  name: image-10
+  label: Image 10
+- type: text
+  name: caption-10
+  label: Caption 10
 - type: text
   name: cat-number-1
   label: Cat. number 1
@@ -109,6 +115,16 @@ fields:
   name: cat-number-8
   label: Cat. number 8
   default: bb:08
+  hidden: true
+- type: text
+  name: cat-number-9
+  label: Cat. number 9
+  default: bb:09
+  hidden: true
+- type: text
+  name: cat-number-10
+  label: Cat. number 10
+  default: bb:10
   hidden: true
 pages:
 - Collections.md
