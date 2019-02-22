@@ -10,16 +10,16 @@ image-2: "/uploads/bb02-11821.jpg"
 caption-2: cap sleeve . round neck . pockets . backless
 image-3: "/uploads/bb03-1443.jpg"
 caption-3: belted with gold d-ring . button through . pockets . cuff detail .
-image-4: ''
+image-4: "/uploads/bb04-2971.jpg"
 caption-4: full skirt . sheer sleeve & waist detail . pockets
-image-5: ''
+image-5: "/uploads/bb05-839.jpg"
 caption-5: off shoulder . belted . puddle train . low back . side split . heavy crepe
-image-6: ''
+image-6: "/uploads/bb06-15021.jpg"
 caption-6: 'roll neck . 3/4 sleeve . cut out waist . backless . gros grain trim .
   side split '
-image-7: ''
+image-7: "/uploads/bb07-3691.jpg"
 caption-7: raw frayed hem and cuff . stand collar . cut out waist . backless
-image-8: ''
+image-8: "/uploads/bb08-321.jpg"
 caption-8: 'skinny strap . bagged out waist . low v neck line . split '
 cat-number-1: bb:o1
 cat-number-2: bb:o2
