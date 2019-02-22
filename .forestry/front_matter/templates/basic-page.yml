@@ -13,6 +13,6 @@ fields:
 - type: file
   name: hero-image
   label: Hero image
-- type: text
+- type: textarea
   name: details
   label: Details
