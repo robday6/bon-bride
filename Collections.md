@@ -33,8 +33,6 @@ cat-number-5: 'bb:o5'
 cat-number-6: 'bb:o6'
 cat-number-7: 'bb:o7'
 cat-number-8: 'bb:o8'
-cat-number-9: 'bb:o9'
-cat-number-10:'bb:10'
 
 ---
 Collections page
