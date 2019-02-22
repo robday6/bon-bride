@@ -33,7 +33,7 @@ image-9: "/uploads/bb10-9071.jpg"
 caption-9: 'low cowl back . long sleeve . loose fit . round neck '
 quote: ''
 author: ''
-collection-url-1: "/bb-01"
+collection-url-1: "/bb-01.html"
 collection-url-2: ''
 collection-url-3: ''
 collection-url-4: ''
