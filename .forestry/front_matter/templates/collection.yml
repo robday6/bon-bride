@@ -1,13 +1,115 @@
 ---
-label: Collection
+label: collection
 hide_body: false
-is_partial: true
+is_partial: false
 fields:
+- type: text
+  label: Template
+  name: layout
+  description: default, home, post & page (must be lowercase)
+  default: collection
 - type: file
   name: image-1
   label: Image 1
-  description: The first image on the page
+  description: The first image in the collections section
 - type: text
   name: caption-1
   label: Caption 1
-  description: The caption for image 1
+  default: bb:01
+- type: file
+  name: image-2
+  label: Image 2
+- type: text
+  name: caption-2
+  label: Caption 2
+  default: bb:02
+- type: file
+  label: Image 3
+  name: image-3
+- type: text
+  name: caption-3
+  label: Caption 3
+  default: bb:03
+- type: file
+  name: image-4
+  label: Image 4
+- type: text
+  name: caption-4
+  label: Caption 4
+  default: bb:04
+- type: file
+  name: image-5
+  label: Image 5
+- type: text
+  name: caption-5
+  label: Caption 5
+  default: bb:05
+- type: file
+  name: image-6
+  label: Image 6
+- type: text
+  name: caption-6
+  label: Caption 6
+  default: bb:06
+- type: file
+  name: image-7
+  label: Image 7
+- type: text
+  name: caption-7
+  label: Caption 7
+- type: file
+  name: image-8
+  label: Image 8
+- type: text
+  label: Caption 8
+  name: caption-8
+  default: bb:08
+- type: file
+  name: image-9
+  label: Image 9
+- type: text
+  name: caption-9
+  label: Caption 9
+- type: text
+  name: cat-number-1
+  label: Cat. number 1
+  default: bb:01
+  hidden: true
+- type: text
+  label: Cat. number 2
+  name: cat-number-2
+  default: bb:02
+  hidden: true
+- type: text
+  name: cat-number-3
+  label: Cat. number 3
+  default: bb:03
+  hidden: true
+- type: text
+  name: cat-number-4
+  label: Cat. number 4
+  default: bb:04
+  hidden: true
+- type: text
+  name: cat-number-5
+  label: Cat. number 5
+  default: bb:05
+  hidden: true
+- type: text
+  name: cat-number-6
+  label: Cat. number 6
+  default: bb:06
+  hidden: true
+- type: text
+  name: cat-number-7
+  label: Cat. number 7
+  default: bb:07
+  hidden: true
+- type: text
+  name: cat-number-8
+  label: Cat. number 8
+  default: bb:08
+  hidden: true
+
+pages:
+- collections.md
