@@ -128,5 +128,3 @@ fields:
   hidden: false
   config:
     required: false
-pages:
-- Collections.md
