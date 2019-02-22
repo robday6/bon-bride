@@ -23,16 +23,19 @@ image-8: "/uploads/bb08-321.jpg"
 caption-8: 'Skinny strap . Bagged out waist . Low v neck line . Split '
 image-9: "/uploads/bb09-1466.jpg"
 caption-9: 'Low cowl back . Long sleeve . Loose fit . Round neck '
-image-10: "/uploads/bb09-1466.jpg"
-caption-10: 'Low cowl back . Long sleeve . Loose fit . Round neck '
-cat-number-1: 'bb:o1'
-cat-number-2: 'bb:o2'
-cat-number-3: 'bb:o3'
-cat-number-4: 'bb:o4'
-cat-number-5: 'bb:o5'
-cat-number-6: 'bb:o6'
-cat-number-7: 'bb:o7'
-cat-number-8: 'bb:o8'
+image-10: "/uploads/bb10-9071.jpg"
+caption-10: 'Round neck . Long slim sleeve . Cut out side . V shaped back . Side split
+  with zip '
+cat-number-1: bb:o1
+cat-number-2: bb:o2
+cat-number-3: bb:o3
+cat-number-4: bb:o4
+cat-number-5: bb:o5
+cat-number-6: bb:o6
+cat-number-7: bb:o7
+cat-number-8: bb:o8
+cat-number-9: ''
+cat-number-10: ''
 
 ---
 Collections page
