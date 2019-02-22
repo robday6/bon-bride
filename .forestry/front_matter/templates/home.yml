@@ -136,5 +136,14 @@ fields:
 - type: text
   name: collection-url-2
   label: Collection url 2
+- type: text
+  name: collection-url-3
+  label: Collection url 3
+- type: text
+  name: collection-url-4
+  label: Collection url 4
+- type: text
+  name: collection-url-5
+  label: Collection url 5
 pages:
 - index.md
