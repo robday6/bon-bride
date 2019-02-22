@@ -26,16 +26,26 @@ caption-9: 'Low cowl back . Long sleeve . Loose fit . Round neck '
 image-10: "/uploads/bb10-9071.jpg"
 caption-10: 'Round neck . Long slim sleeve . Cut out side . V shaped back . Side split
   with zip '
-cat-number-1: bb:o1
-cat-number-2: bb:o2
-cat-number-3: bb:o3
-cat-number-4: bb:o4
-cat-number-5: bb:o5
-cat-number-6: bb:o6
-cat-number-7: bb:o7
-cat-number-8: bb:o8
+cat-number-1: bb:01
+cat-number-2: bb:02
+cat-number-3: bb:03
+cat-number-4: bb:04
+cat-number-5: bb:05
+cat-number-6: bb:06
+cat-number-7: bb:07
+cat-number-8: bb:08
 cat-number-9: bb:o9
 cat-number-10: bb:10
+collection-url-1: bb-01.html
+collection-url-2: bb-02.html
+collection-url-3: bb-03.html
+collection-url-4: bb-04.html
+collection-url-5: bb-05.html
+collection-url-6: bb-06.html
+collection-url-7: bb-07.html
+collection-url-8: bb-08.html
+collection-url-9: bb-09.html
+collection-url-10: bb-10.html
 
 ---
 Collections page
