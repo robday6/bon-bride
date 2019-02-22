@@ -131,19 +131,16 @@ fields:
   name: author
   default: "– Patti Smith"
 - type: text
-  name: collection_url_1
+  name: collection-url-1
   label: Collection url 1
 - type: text
-  name: collection_url_2
+  name: collection-url-2
   label: Collection url 2
 - type: text
-  name: collection_url_3
+  name: collection-url-3
   label: Collection url 3
 - type: text
-  name: collection_url_3
-  label: Collection url 3
-- type: text
-  name: collection_url_4
+  name: collection-url-4
   label: Collection url 4
 - type: text
   name: collection-url-5
