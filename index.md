@@ -34,15 +34,15 @@ caption-9: 'low cowl back . long sleeve . loose fit . round neck '
 quote: ''
 author: ''
 collection-url-1: "/bb-01.html"
-collection-url-2: ''
-collection-url-3: ''
-collection-url-4: ''
-collection-url-5: ''
-collection-url-6: ''
-collection-url-7: ''
-collection-url-8: ''
-collection-url-9: ''
-collection-url-10: ''
+collection-url-2: "/bb-2.html"
+collection-url-3: "/bb-3.html"
+collection-url-4: "/bb-4.html"
+collection-url-5: "/bb-5.html"
+collection-url-6: "/bb-6.html"
+collection-url-7: "/bb-7.html"
+collection-url-8: "/bb-8.html"
+collection-url-9: "/bb-9.html"
+collection-url-10: "/bb-10.html"
 
 ---
 Bespoke wedding dresses

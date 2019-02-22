@@ -16,5 +16,3 @@ fields:
 - type: text
   name: details
   label: Details
-pages:
-- Collection 01/bb-01.md
