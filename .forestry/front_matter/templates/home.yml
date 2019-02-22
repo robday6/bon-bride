@@ -76,38 +76,52 @@ fields:
   label: Caption 8
   name: caption-8
   default: bb:08
+- type: file
+  name: image-9
+  label: Image 9
+- type: text
+  name: caption-9
+  label: Caption 9
 - type: text
   name: cat-number-1
   label: Cat. number 1
   default: bb:01
+  hidden: true
 - type: text
   label: Cat. number 2
   name: cat-number-2
   default: bb:02
+  hidden: true
 - type: text
   name: cat-number-3
   label: Cat. number 3
   default: bb:03
+  hidden: true
 - type: text
   name: cat-number-4
   label: Cat. number 4
   default: bb:04
+  hidden: true
 - type: text
   name: cat-number-5
   label: Cat. number 5
   default: bb:05
+  hidden: true
 - type: text
   name: cat-number-6
   label: Cat. number 6
   default: bb:06
+  hidden: true
 - type: text
   name: cat-number-7
   label: Cat. number 7
   default: bb:07
+  hidden: true
 - type: text
   name: cat-number-8
   label: Cat. number 8
   default: bb:08
+  hidden: true
 - type: text
   name: quote
   label: Quote
