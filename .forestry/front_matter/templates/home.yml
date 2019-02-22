@@ -130,10 +130,5 @@ fields:
   label: Author
   name: author
   default: "– Patti Smith"
-- type: blocks
-  name: collection_url_s
-  label: Collection url's
-  template_types:
-  - url-s
 pages:
 - index.md
