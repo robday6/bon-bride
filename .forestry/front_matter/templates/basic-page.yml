@@ -1,17 +1,14 @@
 ---
-label: Basic page
+label: Collection page
 hide_body: false
 is_partial: false
 fields:
 - type: text
   name: title
   label: Title
-  default: About
-- type: textarea
+  default: 'bb:'
+- type: text
   name: layout
-  label: Template
-  default: default
-  description: default, page or post (must be lowercase)
-  hidden: false
+  label: Layout
 pages:
 - Collection 01/bb-01.md
