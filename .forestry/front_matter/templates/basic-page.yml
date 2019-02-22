@@ -10,5 +10,11 @@ fields:
 - type: text
   name: layout
   label: Layout
+- type: file
+  name: hero-image
+  label: Hero image
+- type: text
+  name: details
+  label: Details
 pages:
 - Collection 01/bb-01.md
