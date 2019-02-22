@@ -29,6 +29,10 @@ cat-number-5: bb:o5
 cat-number-6: bb:o6
 cat-number-7: bb:o7
 cat-number-8: bb:o8
+image-9: "/uploads/bb10-9071.jpg"
+caption-9: 'low cowl back . long sleeve . loose fit . round neck '
+quote: ''
+author: ''
 
 ---
 Bespoke wedding dresses
