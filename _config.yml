@@ -16,7 +16,7 @@
 title: "Bon Bride"
 description: "Bespoke wedding dresses"
 lang: "en" # or fr, de, es etc.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/bon-bride/" # the subpath of your site, e.g. /blog
 url: "https://robday6.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 assets:
    sources:
