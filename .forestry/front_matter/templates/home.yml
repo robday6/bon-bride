@@ -146,16 +146,16 @@ fields:
   name: collection_url_4
   label: Collection url 4
 - type: text
-  name: collection_url_5
+  name: collection-url-5
   label: Collection url 5
 - type: text
-  name: collection_url_6
+  name: collection-url-6
   label: Collection url 6
 - type: text
-  name: collection_url_7
+  name: collection-url-7
   label: Collection url 7
 - type: text
-  name: collection_url_8
+  name: collection-url-8
   label: Collection url 8
 - type: text
   name: collection-url-9
