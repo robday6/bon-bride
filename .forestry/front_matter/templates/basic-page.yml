@@ -13,9 +13,9 @@ fields:
 - type: file
   name: hero-image
   label: Hero image
-- type: list
+- type: textarea
   name: details
-  label: Dress details
+  label: details
 pages:
 - Collection-01/bb-03.md
 - Collection-01/bb-02.md
