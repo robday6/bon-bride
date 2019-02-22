@@ -108,5 +108,13 @@ fields:
   name: cat-number-8
   label: Cat. number 8
   default: bb:08
+- type: text
+  name: quote
+  label: Quote
+  default: Everyone has a creative impulse, and has the right to create, and should
+- type: text
+  label: Author
+  name: author
+  default: "– Patti Smith"
 pages:
 - index.md
