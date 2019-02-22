@@ -130,5 +130,38 @@ fields:
   label: Author
   name: author
   default: "– Patti Smith"
+- type: text
+  name: collection_url_1
+  label: Collection url 1
+- type: text
+  name: collection_url_2
+  label: Collection url 2
+- type: text
+  name: collection_url_3
+  label: Collection url 3
+- type: text
+  name: collection_url_3
+  label: Collection url 3
+- type: text
+  name: collection_url_4
+  label: Collection url 4
+- type: text
+  name: collection_url_5
+  label: Collection url 5
+- type: text
+  name: collection_url_6
+  label: Collection url 6
+- type: text
+  name: collection_url_7
+  label: Collection url 7
+- type: text
+  name: collection_url_8
+  label: Collection url 8
+- type: text
+  name: collection-url-9
+  label: Collection url 9
+- type: text
+  name: collection-url-10
+  label: Collection url 10
 pages:
 - index.md
