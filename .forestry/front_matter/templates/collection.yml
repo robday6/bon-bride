@@ -111,4 +111,4 @@ fields:
   default: bb:08
   hidden: true
 pages:
-- collections.md
+- Collections.md
