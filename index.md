@@ -4,11 +4,11 @@ title: Home page
 hero-image: "/uploads/2018.11.26_BB_-1089-1.jpg"
 logo: "/uploads/logo-white.svg"
 white: true
-image-1: "/uploads/tiko-giorgadze-526569-unsplash.jpg"
+image-1: "/uploads/bb01-975.jpg"
 caption-1: Test caption
-image-2: ''
+image-2: "/uploads/bb02-11821.jpg"
 caption-2: Test caption
-image-3: ''
+image-3: "/uploads/bb03-1443.jpg"
 caption-3: Test caption
 image-4: ''
 caption-4: Test caption
