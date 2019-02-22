@@ -120,11 +120,13 @@ fields:
   name: cat-number-9
   label: Cat. number 9
   default: bb:09
-  hidden: true
+  hidden: false
 - type: text
   name: cat-number-10
   label: Cat. number 10
   default: bb:10
-  hidden: true
+  hidden: false
+  config:
+    required: false
 pages:
 - Collections.md
