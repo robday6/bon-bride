@@ -18,9 +18,9 @@ image-6: ''
 caption-6: 'roll neck . 3/4 sleeve . cut out waist . backless . gros grain trim .
   side split '
 image-7: ''
-caption-7: Test caption
+caption-7: raw frayed hem and cuff . stand collar . cut out waist . backless
 image-8: ''
-caption-8: Test caption
+caption-8: 'skinny strap . bagged out waist . low v neck line . split '
 cat-number-1: bb:01
 cat-number-2: bb:02
 cat-number-3: bb:03
