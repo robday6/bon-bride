@@ -21,14 +21,14 @@ image-7: ''
 caption-7: raw frayed hem and cuff . stand collar . cut out waist . backless
 image-8: ''
 caption-8: 'skinny strap . bagged out waist . low v neck line . split '
-cat-number-1: bb:01
-cat-number-2: bb:02
-cat-number-3: bb:03
-cat-number-4: bb:04
-cat-number-5: bb:05
-cat-number-6: bb:06
-cat-number-7: bb:07
-cat-number-8: bb:08
+cat-number-1: bb:o1
+cat-number-2: bb:o2
+cat-number-3: bb:o3
+cat-number-4: bb:o4
+cat-number-5: bb:o5
+cat-number-6: bb:o6
+cat-number-7: bb:o7
+cat-number-8: bb:o8
 
 ---
 Bespoke wedding dresses
