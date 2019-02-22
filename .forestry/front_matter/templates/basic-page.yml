@@ -13,5 +13,3 @@ fields:
   default: default
   description: default, page or post (must be lowercase)
   hidden: false
-pages:
-- about.md

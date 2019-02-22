@@ -110,6 +110,5 @@ fields:
   label: Cat. number 8
   default: bb:08
   hidden: true
-
 pages:
 - collections.md
