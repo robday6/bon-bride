@@ -5,17 +5,18 @@ hero-image: "/uploads/2018.11.26_BB_-1089-1.jpg"
 logo: "/uploads/logo-white.svg"
 white: true
 image-1: "/uploads/bb01-975.jpg"
-caption-1: Test caption
+caption-1: pearl trim . roll neck . calf length . textured silk
 image-2: "/uploads/bb02-11821.jpg"
-caption-2: Test caption
+caption-2: cap sleeve . round neck . pockets . backless
 image-3: "/uploads/bb03-1443.jpg"
-caption-3: Test caption
+caption-3: belted with gold d-ring . button through . pockets . cuff detail .
 image-4: ''
-caption-4: Test caption
+caption-4: full skirt . sheer sleeve & waist detail . pockets
 image-5: ''
-caption-5: Test caption
+caption-5: off shoulder . belted . puddle train . low back . side split . heavy crepe
 image-6: ''
-caption-6: Test caption
+caption-6: 'roll neck . 3/4 sleeve . cut out waist . backless . gros grain trim .
+  side split '
 image-7: ''
 caption-7: Test caption
 image-8: ''
