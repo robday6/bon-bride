@@ -17,5 +17,6 @@ fields:
   name: details
   label: Details
 pages:
+- Collection-01/bb-03.md
 - Collection-01/bb-02.md
 - Collection-01/bb-01.md
