@@ -46,6 +46,10 @@ fields:
 - type: text
   name: previous-url
   label: Previous
+- type: number
+  name: image-count
+  label: Image count
+  description: 'How many images are there? '
 pages:
 - collection-01/bb-08.md
 - collection-01/bb-01.md
