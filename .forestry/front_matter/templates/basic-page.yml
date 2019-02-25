@@ -47,6 +47,7 @@ fields:
   name: previous-url
   label: Previous
 pages:
+- about.md
 - Collection-01/bb-09.md
 - Collection-01/bb-07.md
 - Collection-01/bb-06.md
