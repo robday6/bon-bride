@@ -40,6 +40,12 @@ fields:
 - type: file
   name: image-8
   label: image-8
+- type: text
+  name: next-url
+  label: Next
+- type: text
+  name: previous-url
+  label: Previous
 pages:
 - Collection-01/bb-01.md
 - Collection-01/bb-09.md
