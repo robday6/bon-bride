@@ -3,17 +3,72 @@
 
 {% include container.html %}
 
+{% if user.image-count == '2' %}
 <div class="grid columns-1 columns-2-ns ga4 items-center">
-	<img class="columns-end-2" src="{{ page.image-1 }}">
-	<img class="columns-end-2" src="{{ page.image-2 }}">
-	<img class="columns-end-2" src="{{ page.image-3 }}">
-	<img class="columns-end-2" src="{{ page.image-4 }}">
-	<img class="columns-end-2" src="{{ page.image-5 }}">
-	<img class="columns-end-2" src="{{ page.image-6 }}">
-	<img class="columns-end-2" src="{{ page.image-7 }}">
-	<img class="columns-end-2" src="{{ page.image-8 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+</div>
+
+{% if user.image-count == '3' %}
+<div class="grid columns-1 columns-3-ns ga4 items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+</div>
+
+{% if user.image-count == '4' %}
+<div class="grid columns-1 columns-2-ns ga4 items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+</div>
+
+{% if user.image-count == '5' %}
+<div class="grid columns-1 columns-5-ns ga4 items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-5 }}">
 
 </div>
+
+{% if user.image-count == '6' %}
+<div class="grid columns-1 columns-3-ns ga4 items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-5 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-6 }}">
+</div>
+
+{% if user.image-count == '7' %}
+<div class="grid columns-1 columns-4-ns ga4 items-center">
+	<<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-5 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-6 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-7 }}">
+</div>
+
+{% if user.image-count == '8' %}
+<div class="grid columns-1 columns-4-ns ga4 items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-5 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-6 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-7 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-8 }}">
+</div>
+
+{% endif %}
+
 
 {% include container-end.html %}
 {% include footer.html %}
