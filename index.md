@@ -31,8 +31,8 @@ cat-number-7: bb:o7
 cat-number-8: bb:o8
 image-9: "/uploads/bb10-9071.jpg"
 caption-9: 'low cowl back . long sleeve . loose fit . round neck '
-quote: ''
-author: ''
+quote: Everyone has a creative impulse, and has the right to create, and should
+author: Patti Smith
 collection-url-1: bb-01.html
 collection-url-2: bb-02.html
 collection-url-3: bb-03.html
@@ -45,4 +45,4 @@ collection-url-9: bb-09.html
 collection-url-10: bb-10.html
 
 ---
-Bespoke wedding dresses
+Bespoke & ready-made wedding dresses
