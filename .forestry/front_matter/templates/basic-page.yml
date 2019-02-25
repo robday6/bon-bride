@@ -47,6 +47,7 @@ fields:
   name: previous-url
   label: Previous
 pages:
+- collection-01/test.md
 - about.md
 - our-brides.md
 - services.md
