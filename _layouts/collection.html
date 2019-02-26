@@ -1,8 +1,27 @@
 {% include header.html %}
-{% include nav.html %}
+
+			<div class="absolute top-4 left-4">
+				<a href="{{ site.baseurl }}index.html"><img class="w4 dim pointer" 
+				src="{{ site.baseurl }}assets/logo/logo-black.svg"></a>
+			</div>
+
+
+<div class="pa3 w-100 vh-100 bg-center" style="background-image: url({{ site.baseurl }}{{ page.hero-image }})">
+
+
+	<div class="grid items-center w-100 b--white ba bw4 h-100">
+
+		<div class="center tc f1 f-headline-l pa4">
+			collection:01
+		</div>
+	</div>
+</div>
 
 {% include container.html %}
 
+	<div class="measure-wide center lh-copy f5 avenir mv3 mv6-ns ">
+	{{ content }}
+	</div>
 {% include collections.html %}
 
 {% include container-end.html %}
