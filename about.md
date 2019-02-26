@@ -25,7 +25,7 @@ paragraph-2: Whether from the collection or the bespoke service, BON BRIDÉ defi
   itself by making each dress unique. The personalised service offers an exclusive
   experience that has been the founder’s aspiration since she got married herself
   in 2013.
-quote-2: No one dress can suite everyone and nor should it, I want to offer flexibility
+quote-2: No one dress can suit everyone and nor should it, I want to offer flexibility
   for every bride to put their own stamp on their look
 author-2: Pippa Cooke
 
