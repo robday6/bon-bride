@@ -53,5 +53,8 @@ fields:
 - type: text
   name: author-3
   label: author-3
+- type: file
+  name: hero-image-2
+  label: hero-image-2
 pages:
 - about.md
