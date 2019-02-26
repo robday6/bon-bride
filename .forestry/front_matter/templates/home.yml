@@ -165,5 +165,14 @@ fields:
   label: Cat. number 9
   hidden: true
   default: bb:09
+- type: file
+  name: image-10
+  label: Image 10
+- type: text
+  label: Cat. number 10
+  name: cat-number-10
+- type: text
+  name: caption-10
+  label: Caption 10
 pages:
 - index.md
