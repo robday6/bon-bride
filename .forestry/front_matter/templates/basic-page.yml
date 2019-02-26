@@ -30,6 +30,7 @@ fields:
   label: Image count
   description: 'How many images are there? '
 pages:
+- collection-01/bb-06.md
 - collection-01/bb-05.md
 - collection-01/bb-04.md
 - collection-01/bb-03.md
