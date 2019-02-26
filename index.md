@@ -14,7 +14,7 @@ image-4: "/uploads/bb04-2971.jpg"
 caption-4: Full skirt . Sheer sleeve & waist detail . Pockets
 image-5: "/uploads/bb05-839.jpg"
 caption-5: Off shoulder . Belted . Puddle train . Low back . Side split . Heavy crepe
-image-6: "/uploads/bb06-15021.jpg"
+image-6: "/uploads/bb06-1518-1.jpg"
 caption-6: 'Roll neck . 3/4 sleeve . Cut out waist . Backless . Gros grain trim side
   split '
 image-7: "/uploads/bb07-3691.jpg"
