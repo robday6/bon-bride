@@ -6,7 +6,7 @@ logo: "/uploads/logo-white.svg"
 white: true
 image-1: "/uploads/bb01-975.jpg"
 caption-1: Pearl trim . Roll neck . Calf length . Textured silk
-image-2: "/uploads/bb02-11821.jpg"
+image-2: "/uploads/bb02-1219.jpg"
 caption-2: Cap sleeve . Round neck . Pockets . Backless
 image-3: "/uploads/bb03-1443.jpg"
 caption-3: Belted with gold d-ring . Button through . Pockets . Cuff detail
@@ -14,7 +14,7 @@ image-4: "/uploads/bb04-2971.jpg"
 caption-4: Full skirt . Sheer sleeve & waist detail . Pockets
 image-5: "/uploads/bb05-839.jpg"
 caption-5: Off shoulder . Belted . Puddle train . Low back . Side split . Heavy crepe
-image-6: "/uploads/bb06-15021.jpg"
+image-6: "/uploads/bb06-1518-1.jpg"
 caption-6: 'Roll neck . 3/4 sleeve . Cut out waist . Backless . Gros grain trim side
   split '
 image-7: "/uploads/bb07-3691.jpg"
@@ -29,7 +29,7 @@ cat-number-5: bb:o5
 cat-number-6: bb:o6
 cat-number-7: bb:o7
 cat-number-8: bb:o8
-image-9: "/uploads/bb10-9071.jpg"
+image-9: "/uploads/bb09-1466-1.jpg"
 caption-9: 'low cowl back . long sleeve . loose fit . round neck '
 quote: Everyone has a creative impulse, and has the right to create, and should
 author: Patti Smith
