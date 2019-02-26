@@ -9,8 +9,21 @@ fields:
 - type: textarea
   label: Quote
   name: quote
+- type: text
+  name: author
+  label: Author
 - type: file
   name: hero-image
   label: Hero-image
+- type: textarea
+  name: paragraph-2
+  label: Paragraph-2
+  description: This goes in the second section
+- type: textarea
+  name: quote-2
+  label: Quote-2
+- type: text
+  name: author-2
+  label: Author-2
 pages:
 - about.md
