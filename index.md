@@ -43,7 +43,7 @@ collection-url-7: bb-07.html
 collection-url-8: bb-08.html
 collection-url-9: bb-09.html
 collection-url-10: bb-10.html
-cat-number-9: bb:09
+cat-number-9: bb:o9
 image-10: "/uploads/bb10-9071.jpg"
 cat-number-10: bb:10
 caption-10: 'Round neck . Long slim sleeve . Cut out side . V shaped back . Side split
