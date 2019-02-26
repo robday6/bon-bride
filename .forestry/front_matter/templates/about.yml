@@ -3,6 +3,12 @@ label: About
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: textarea
   label: Quote
   name: quote
+- type: file
+  name: hero-image
+  label: Hero-image
