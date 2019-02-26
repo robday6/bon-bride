@@ -45,4 +45,4 @@ collection-url-9: bb-09.html
 collection-url-10: bb-10.html
 
 ---
-Fashion forward bespoke & ready-made wedding dresses
+Understated yet striking dresses for women who dress for themselves
