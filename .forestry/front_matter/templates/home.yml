@@ -160,5 +160,10 @@ fields:
 - type: text
   name: collection-url-10
   label: Collection url 10
+- type: text
+  name: cat-number-9
+  label: Cat. number 9
+  hidden: true
+  default: bb:09
 pages:
 - index.md
