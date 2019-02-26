@@ -25,5 +25,8 @@ fields:
 - type: text
   name: author-2
   label: Author-2
+- type: text
+  name: layout
+  label: layout
 pages:
 - about.md
