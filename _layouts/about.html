@@ -1,21 +1,49 @@
 {% include header.html %}
 {% include split-layout.html %}
 
-{% include container.html %}
+<section class="w-100 pa4 pa5-m pa6-l">
+	<article class="f3 lh-copy measure center">
+	    {{ page.quote}}
+	</article>
+</section>
+
+<section class="w-100 grid columns-2 columns-4-l items-center">
+	<img class="" src="{{ site.baseurl }}{{ page.image-1 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-2 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-3 }}">
+	<img class="" src="{{ site.baseurl }}{{ page.image-4 }}">
+</section>
+
+<section class="w-100 pa4 pa5-m pa6-l grid columns-1 columns-2-l ga4">
+	<article class="f4 avenir fw3 measure-wide lh-copy center">
+	    {{ page.paragraph-2}}
+	</article>
+
+	<article class="f3 lh-copy measure center">
+	    {{ page.quote-2}}
+	</article>
+</section>
+
+<section id="#sustainability" class="w-100 relative bg-black-90 pa4 pa5-m pa6-l" style="background-image: url({{ site.baseurl }}{{ page.hero-image-2 }})">
+	<div class="absolute-ns top--5 left-0 black center measure lh-copy f1 f-headline-ns mv4 ">
+	    {{ page.section-title }}
+	</div>
+
+	<div class="grid columns-1 columns-2-l ga4">
+		<div class="black fw3 avenir lh-copy f4">
+		   	{{ page.paragraph-3 }}
+		 </div>
+
+		 <div class="black f3 lh-copy ">
+		   	{{ page.quote-3 }}
+		 </div>
+	 </div>
+	</div>
+</section>
 
 
 
 
-<article>
-
-    <h1 class="f3 lh-title">{{ page.title }}</h1>
-
-    {{ content}}
-
-</article>
-
-
-{% include container-end.html %}
 {% include full-screen-menu.html %}
 {% include footer.html %}
 	
