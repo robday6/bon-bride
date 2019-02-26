@@ -158,5 +158,8 @@ fields:
 - type: text
   name: collection-url-10
   label: Collection url 10
+- type: file
+  name: hero-image
+  label: Hero image
 pages:
 - collection.md
