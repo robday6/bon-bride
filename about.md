@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: about
 hero-image: "/uploads/bb04-229.jpg"
 details: ''
 image-1: ''
