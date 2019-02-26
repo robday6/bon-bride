@@ -28,5 +28,17 @@ fields:
 - type: text
   name: layout
   label: layout
+- type: file
+  name: image-1
+  label: image-1
+- type: file
+  name: image-2
+  label: image-2
+- type: file
+  name: image-3
+  label: image-3
+- type: file
+  name: image-4
+  label: image-4
 pages:
 - about.md
