@@ -161,5 +161,8 @@ fields:
 - type: file
   name: hero-image
   label: Hero image
+- type: textarea
+  name: quote
+  label: Quote
 pages:
 - collection.md
