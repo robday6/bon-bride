@@ -43,6 +43,7 @@ quote-3: I want to create sustainable dresses, that can even be worn again. We n
   wear time and time again.
 undefined: ''
 author-3: " Pippa Cooke Founder "
+hero-image-2: "/uploads/wood-white-vintage-retro-texture-floor-676426-pxhere.com.jpg"
 
 ---
 Founder and creative director of BON BRIDÉ is ex fashion buyer and product developer, Pippa Cooke. Having spent over ten years immersed in the industry, buying for retail giant Topshop, cult label House of Hackney and Luxury department store Harrods, Pippa felt the time was right to adopt her fashion forward aesthetic and disrupt the bridal industry.
