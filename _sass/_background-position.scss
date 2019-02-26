@@ -51,6 +51,10 @@
   background-position: center left;   
 }
 
+.bg-left-custom {
+ background-position:20% 50%;}
+
+
 @media #{$breakpoint-not-small} {
   .bg-center-ns { 
     background-repeat: no-repeat;

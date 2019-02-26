@@ -1,6 +1,6 @@
 ---
 title: About
-layout: ''
+layout: 'page'
 hero-image: ''
 details: ''
 image-1: ''

@@ -1,53 +1,29 @@
-<div class="grid columns-1 columns-2-ns">
+<div class="grid columns-1 columns-2-l">
 
 	<header class="ttu tracked sans-serif w-100">
-	<div class="cover bg-left bg-center-l vh-75 vh-100-ns" style="background-image: url({{ site.baseurl }}{{ page.hero-image }})">
+	<div class="cover bg-left bg-center-l vh-75 vh-100-l" style="background-image: url({{ site.baseurl }}{{ page.hero-image }})">
 		<div class="pa5-ns pa4">
 			<div class="fl">
-				<a href="{{ site.baseurl }}index.html" class="dim"></a><img class="w4" 
-				src="{{ site.baseurl }}assets/logo/logo-white.svg">
+				<a href="{{ site.baseurl }}index.html"><img class="w4 dim pointer" 
+				src="{{ site.baseurl }}assets/logo/logo-white.svg"></a>
 			</div>
-
 		</div>
-
-
 	</div>
-</header>
+	</header>
 
 <div>
 
-	<div class="pa5-ns pa3">
+	<div class="pa5-l pa3">
 	</div>
-
-		<div class="ma4 ma5-ns mt3 mt6-ns">
+		<div class="ma4 ma5-l mt3 mt6-l">
 			<div class="f-headline">{{ page.title }}</div>
-
 			<div class="f4 pv4 tracked lh-copy">
 				{{ page.details }}
 			</div>
 			
-
 			{% include typeform.html %}
-			
+			{% include next-previous.html %}
 
-			<div class="flex pv4">
-				  <a href="{{ site.baseurl }}collection-01/{{ page.previous-url }}" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
-				      <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
-				        <title>chevronLeft icon</title>
-				        <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
-				      </svg>
-				    <span class="pl1">Previous</span>
-				  </a>
-				  <a href="{{ site.baseurl }}collection-01/{{ page.next-url }}" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
-				    <span class="pr1">Next</span>
-				    <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
-				      <title>chevronRight icon</title>
-				      <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
-				    </svg>
-				  </a>
-				</div>
-
-			<!-- {% include next-previous.html %} -->
 		</div>
 
 
