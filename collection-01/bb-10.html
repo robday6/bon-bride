@@ -17,9 +17,11 @@
 
     </head>
 
-    <body class="sans-serif">
+    <body class="sans-serif trans">
+
 
     
+
 
 <div class="grid columns-1 columns-2-ns">
 
@@ -27,9 +29,8 @@
 	<div class="cover bg-left bg-center-l vh-75 vh-100-ns" style="background-image: url(/bon-bride//uploads/bb10-965.jpg)">
 		<div class="pa5-ns pa4">
 			<div class="fl">
-				<a class="f5 link dim white dib mr3" href="/bon-bride/index.html">Home</a>
-				<a class="f5 link dim white dib mr3" href="/bon-bride/collection.html" >Collection</a>
-	            <a class="f5 link dim white dib mr3" href="/bon-bride/about.html" >About</a> 
+				<a href="/bon-bride/index.html" class="dim"></a><img class="w4" 
+				src="/bon-bride/assets/logo/logo-white.svg">
 			</div>
 
 		</div>
@@ -41,9 +42,6 @@
 <div>
 
 	<div class="pa5-ns pa3">
-			<div class="fr">
-				<a class="f5 fr link dim black dn dib-ns ttu tracked" href="contact.html" >Contact</a> 
-			</div>
 	</div>
 
 		<div class="ma4 ma5-ns mt3 mt6-ns">
@@ -121,6 +119,47 @@
 </div>
 
 </div>
+
+
+<!-- The overlay -->
+<div id="nav" class="fade-in fade-out w-100 h-100 fixed left-0 top-0 overflow-x-hidden bg-black z-2  columns-2 pa5-ns pa4 dn">
+
+  <!-- Overlay content -->
+  <div class="column-start-1">
+  	<a class="dim white f3 link no-underline dib tracked w4" href="/bon-bride/index.html">
+  		<img src="/bon-bride/assets/logo/logo-white.svg">
+  	</a>
+  </div>
+
+
+  <ul class="list column-start-2 column-end-2 tr pr2 mt0 z-3">
+
+	<!-- Button to close the overlay navigation -->
+  	<a href="javascript:void(0)" class="white no-underline f2 dim closebtn " onclick="closeNav()">
+  		<img class="w2 pb4" src="/bon-bride/assets/close.svg"></a>
+  	
+    <li><a class="pv3 dim white f3 link no-underline dib tracked" href="/bon-bride/about.html">About</a></li>
+    <li><a class="pv3 dim white f3 link no-underline dib tracked" href="/bon-bride/collection.html">Collection</a></li>
+    <li><a class="pv3 dim white f3 link no-underline dib tracked" href="/bon-bride/our-brides.html">Our brides</a></li>
+    <li><a class="pv3 dim white f3 link no-underline dib tracked" href="/bon-bride/services.html">Services</a></li>
+    <li><a class="pv3 dim white f3 link no-underline dib tracked" href="/bon-bride/contact.html">Contact</a></li>
+
+    <li><a class="pb3 pt4 dim white f6 link no-underline dib tracked" href="#">Pinterest</a></li>
+    <li><a class="pv3 dim white f6 link no-underline dib tracked" href="#">Instagram</a></li>
+    <li><a class="pv3 dim white f6 link no-underline dib tracked" href="#">Facebook</a></li>
+  </ul>
+
+</div>
+
+
+<!-- Use any element to open/show the overlay navigation menu -->
+<div class="fixed top-3 right-3 z-index-0 f5 link dim ph3 pv2 mb2 dib black ttu tracked pointer">
+	<span onclick="openNav()">MENU</span>
+</div>
+
+
+
+
 <section class="w-100 bg-light-gray">
 	<div class="pa3 pa5-ns mw8-ns grid columns-1 columns-5-ns center">
 		<a class="dim pointer w-30 w-50-ns pa2" href="/index.html">
@@ -130,7 +169,7 @@
 		<a class="dim no-underline black pa2" href="facebook">Facebook</a>
 		<a class="dim no-underline black pa2" href="instagram">Instagram</a>
 		<a class="dim no-underline black pa2" href="Pinterest">Pinterest</a>
-		<a class="dim no-underline black pa2" href="facebook">Contact</a>
+		<a class="dim no-underline black pa2" href="contact">Contact</a>
 
 	</div>
 
@@ -140,7 +179,25 @@
 
     </body>
 
+
+
+
+<script type="text/javascript">
+	/* Open */
+function openNav() {
+  document.getElementById("nav").style.display = "grid";
+}
+
+/* Close */
+function closeNav() {
+  document.getElementById("nav").style.display = "none";
+}
+</script>
+
 </html>
+
+
+
 
 	
 
