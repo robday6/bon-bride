@@ -14,7 +14,7 @@ fields:
   name: hero-image
   label: Hero image
 - type: image_gallery
-  name: images-multi
+  name: gallery
   label: Images
 - type: textarea
   name: details

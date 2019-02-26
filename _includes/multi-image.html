@@ -1,3 +1,7 @@
-{% for image in page.image-multi %}
-    <li><img src="{{ image | relative_url }}"></li>
-  {% endfor %}
+<div class="grid columns-2 ga5 items-center">
+
+{% for image in page.gallery %}
+	<img src="{{ site.baseurl }}{{ image }}">
+{% endfor %}
+
+</div>
