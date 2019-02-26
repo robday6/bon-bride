@@ -13,33 +13,12 @@ fields:
 - type: file
   name: hero-image
   label: Hero image
+- type: image_gallery
+  name: images-multi
+  label: Images
 - type: textarea
   name: details
   label: details
-- type: file
-  name: image-1
-  label: image-1
-- type: file
-  name: image-2
-  label: image-2
-- type: file
-  name: image-3
-  label: image-3
-- type: file
-  name: image-4
-  label: image-4
-- type: file
-  name: image-5
-  label: image-5
-- type: file
-  name: image-6
-  label: image-6
-- type: file
-  name: image-7
-  label: image-7
-- type: file
-  name: image-8
-  label: image-8
 - type: text
   name: next-url
   label: Next
