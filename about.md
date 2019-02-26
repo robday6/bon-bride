@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-hero-image: "/uploads/bb04-2971-1.jpg"
+hero-image: "/uploads/bb04-229.jpg"
 details: ''
 image-1: ''
 image-2: ''
