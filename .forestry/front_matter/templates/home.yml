@@ -163,7 +163,7 @@ fields:
 - type: text
   name: cat-number-9
   label: Cat. number 9
-  hidden: true
+  hidden: false
   default: bb:09
 - type: file
   name: image-10
