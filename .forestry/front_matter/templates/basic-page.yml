@@ -30,6 +30,7 @@ fields:
   label: Image count
   description: 'How many images are there? '
 pages:
+- about.md
 - collection-01/bb-10.md
 - collection-01/bb-09.md
 - collection-01/bb-08.md
@@ -40,6 +41,5 @@ pages:
 - collection-01/bb-03.md
 - collection-01/bb-02.md
 - collection-01/bb-01.md
-- about.md
 - our-brides.md
 - services.md
