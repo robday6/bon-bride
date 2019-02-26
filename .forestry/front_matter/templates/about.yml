@@ -40,5 +40,18 @@ fields:
 - type: file
   name: image-4
   label: image-4
+- type: text
+  name: section-title
+  label: section-title
+- type: textarea
+  name: paragraph-3
+  label: paragraph-3
+- type: textarea
+  name: quote-3
+  label: quote-3
+- type: textarea
+- type: text
+  name: author-3
+  label: author-3
 pages:
 - about.md
