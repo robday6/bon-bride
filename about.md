@@ -4,7 +4,7 @@ layout: about
 hero-image: "/uploads/bb04-229.jpg"
 details: ''
 image-1: "/uploads/bb08-571.jpg"
-image-2: "/uploads/bb01-11441.jpg"
+image-2: "/uploads/bb04-1371.jpg"
 image-3: "/uploads/bb01-1048-1.jpg"
 image-4: "/uploads/bb04-2971.jpg"
 image-5: ''
