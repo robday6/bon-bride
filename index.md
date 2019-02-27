@@ -30,7 +30,7 @@ cat-number-6: bb:o6
 cat-number-7: bb:o7
 cat-number-8: bb:o8
 image-9: "/uploads/bb09-1466-1.jpg"
-caption-9: 'low cowl back . long sleeve . loose fit . round neck '
+caption-9: 'Low cowl back . Long sleeve . Loose fit . Round neck '
 quote: Everyone has a creative impulse, and has the right to create, and should
 author: Patti Smith
 collection-url-1: bb-01.html

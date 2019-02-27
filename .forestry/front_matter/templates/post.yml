@@ -32,7 +32,7 @@ fields:
   name: permalink
   label: Permalink
 pages:
-- _posts/daisy-rob.md
+- _posts/2019-02-27-daisy-rob.md
 - _posts/2019-02-27-emma-chris.md
 - _posts/2019-02-27-cora-rob.md
 - _posts/2019-02-27-kate-ben.md
