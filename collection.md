@@ -54,3 +54,5 @@ author: Pippa Cooke - Founder
 Bridging the gap between fashion and bridal - BON BRIDÉ’s first ever collection takes inspiration from social and cultural movements, looking to empower women and question if they want to dress for themselves or conform to the typical bride. With high necklines, extra long sleeves and loose fits, the dresses possess a relaxed tailoring aesthetic.
 
 Each dress is made to order in London.
+
+[Explore the collection](#explore)
