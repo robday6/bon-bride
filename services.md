@@ -16,11 +16,19 @@ previous-url: ''
 date: 2019-02-25 11:54:40 +0000
 gallery: []
 image-count: ''
+column-1: ''
+column-2: ''
 
 ---
-COLLECTION - Select a dress from our collection and we will fit and tailor this to your exact dimension.
+### Collection
 
-BESPOKE - We offer the full bespoke service, Prices start from £1,850 this includes the following:
+Select a dress from our collection and we will fit and tailor this to your exact dimension.
+
+***
+
+### Bespoke
+
+We offer the full bespoke service, Prices start from £1,850 this includes the following:
 
 * FREE consultation - Max 45 mins
 * Mood Boards
@@ -31,7 +39,14 @@ BESPOKE - We offer the full bespoke service, Prices start from £1,850 this incl
 
 If your budget doesn’t allow for the full bespoke service then we’re happy to explore alternative options
 
-VEILS - We also make bespoke veils tailored to your dress
+***
 
-  
-DRESS FOR ALL OCCASIONS - We now offer our brides the option of having their dress amended, so they can re-use and wear time and time again
+### Veils
+
+We also make bespoke veils tailored to your dress
+
+***
+
+### Dress for all occasions
+
+We now offer our brides the option of having their dress amended, so they can re-use and wear time and time again
