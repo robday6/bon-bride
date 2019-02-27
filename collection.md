@@ -55,4 +55,4 @@ Our first collection bridges the gap between fashion and bridal. Taking inspirat
 
 Each dress is made to order in London.
 
-[Explore the collection](#explore)
+[Explore the collection](#collections)
