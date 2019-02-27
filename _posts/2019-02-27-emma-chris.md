@@ -1,7 +1,15 @@
 ---
 title: Emma & Chris
-hero-image: ''
-images: []
+hero-image: "/uploads/Emma_Chris-2017-487.jpg"
+images:
+- "/uploads/Emma_Chris-2017-596.jpg"
+- "/uploads/Emma_Chris-2017-560.jpg"
+- "/uploads/Emma_Chris-2017-557.jpg"
+- "/uploads/Emma_Chris-2017-471.jpg"
+- "/uploads/Emma_Chris-2017-439.jpg"
+- "/uploads/Emma_Chris-2017-422.jpg"
+- "/uploads/Emma_Chris-2017-256-1.jpg"
+- "/uploads/Emma_Chris-2017-149.jpg"
 next-url: ''
 previous-url: ''
 featured-image: ''
