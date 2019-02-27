@@ -22,6 +22,9 @@ fields:
   name: featured-image
   label: Featured image
   description: Appears on the 'our brides page'
+- type: text
+  name: layout
+  label: layout
 pages:
 - _posts/2019-02-27-kate-ben.md
 - _posts/2019-02-27-cora-rob.md
