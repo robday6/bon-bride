@@ -2,4 +2,16 @@
 label: Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+- type: image_gallery
+  name: images
+  label: Images
+- type: text
+  name: next-url
+  label: Next URL
+- type: text
+  name: previous-url
+  label: Previous URL
