@@ -28,5 +28,8 @@ fields:
 - type: text
   name: link-3
   label: link-3
+- type: file
+  name: hero-image
+  label: hero-image
 pages:
 - contact.md
