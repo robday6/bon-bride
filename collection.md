@@ -46,8 +46,8 @@ collection-url-7: bb-07.html
 collection-url-8: bb-08.html
 collection-url-9: bb-09.html
 collection-url-10: bb-10.html
-quote: Stripped down sophistication that boasts modernity and refinement. Characteristics
-  which reflect our day to day wardrobes.
+quote: '"Stripped down sophistication that boasts modernity and refinement. Characteristics
+  which reflect our day to day wardrobes."'
 author: Pippa Cooke - Founder
 
 ---
