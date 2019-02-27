@@ -9,15 +9,13 @@ column-1: |-
   web - www.bonbride.com
 
   Instagram - @bonbride
-column-2: |-
-  ADDRESS
-
-  BON BRIDE
-  8 Downs Bridge Road
-  Beckenham
-  London
-  BR3 5HX
+column-2: ''
 
 ---
+**Address**
 
-***
+Bon Bridé  
+8 Downs Bridge Road  
+Beckenham  
+London  
+BR3 5HX
