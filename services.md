@@ -1,6 +1,6 @@
 ---
 title: Services
-layout: ''
+layout: page
 hero-image: ''
 details: ''
 image-1: ''
@@ -14,5 +14,7 @@ image-8: ''
 next-url: ''
 previous-url: ''
 date: 2019-02-25 11:54:40 +0000
+gallery: []
+image-count: ''
 
 ---
