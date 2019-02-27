@@ -46,10 +46,11 @@ collection-url-7: bb-07.html
 collection-url-8: bb-08.html
 collection-url-9: bb-09.html
 collection-url-10: bb-10.html
+quote: I wanted the collection to obtain a stripped down sophistication thats boasts
+  modernity and refinement. Characteristics which reflect our day to day wardrobes.
+author: Pippa Cooke - Founder
 
 ---
 Bridging the gap between fashion and bridal - BON BRIDÉ’s first ever collection takes inspiration from social and cultural movements, looking to empower women and question if they want to dress for themselves or conform to the typical bride. With high necklines, extra long sleeves and loose fits, the dresses possess a relaxed tailoring aesthetic.
 
 Each dress is made to order in London.
-
-> _“I wanted the collection to obtain a stripped down sophistication thats boasts modernity and refinement. Characteristics which reflect our day to day wardrobes._ “ Pippa Cooke Founder
