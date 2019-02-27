@@ -15,6 +15,12 @@ links:
 - |-
   Email
   pippacooke@bonbride.com
+link-text-1: Email
+link-1: ''
+link-text-2: Instagram
+link-2: www.instagram.com/bonbride
+link-text-3: Pinterest
+link-3: ''
 
 ---
 ### Address
