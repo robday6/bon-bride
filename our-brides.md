@@ -1,6 +1,6 @@
 ---
 title: Our brides
-layout: ''
+layout: our-brides
 hero-image: ''
 details: ''
 image-1: ''
