@@ -6,6 +6,9 @@ fields:
 - type: text
   name: title
   label: Title
+- type: file
+  name: hero-image
+  label: hero-image
 - type: image_gallery
   name: images
   label: Images
