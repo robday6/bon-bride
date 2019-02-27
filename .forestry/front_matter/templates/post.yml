@@ -18,3 +18,7 @@ fields:
 - type: text
   name: previous-url
   label: Previous URL
+- type: file
+  name: featured-image
+  label: Featured image
+  description: Appears on the 'our brides page'
