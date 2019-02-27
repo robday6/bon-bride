@@ -1,5 +1,5 @@
 ---
-title: collection:o1
+title: collection:01
 intro: Test
 hero-image: "/uploads/sand-structure-wood-white-texture-floor-592000-pxhere.com.jpg"
 date: 2019-02-21 11:26:48 +0000
