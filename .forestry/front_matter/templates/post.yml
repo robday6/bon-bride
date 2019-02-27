@@ -25,6 +25,9 @@ fields:
 - type: text
   name: layout
   label: layout
+- type: boolean
+  name: white
+  label: 'White text and logo? '
 pages:
 - _posts/2019-02-27-emma-chris.md
 - _posts/2019-02-27-cora-rob.md
