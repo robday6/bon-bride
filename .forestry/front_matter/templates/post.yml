@@ -22,3 +22,5 @@ fields:
   name: featured-image
   label: Featured image
   description: Appears on the 'our brides page'
+pages:
+- _posts/2018-03-11-example-post.md
