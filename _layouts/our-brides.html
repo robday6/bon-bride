@@ -1,9 +1,15 @@
 {% include header.html %}
 {% include container.html %}
 
+{% if post.white == true %}
+{% include logo-left-white.html %}
+<div class="tc f1 f-headline-ns mv6 white">{{ page.title }}</div>
+{% else %}
 {% include logo-left-black.html %}
+<div class="tc f1 f-headline-ns mv6 black">{{ page.title }}</div>
+{% endif %}
 
-	<div class="tc f1 f-headline-ns mv6">{{ page.title}}</div>
+
 
 {% include brides.html %}
 

@@ -3,7 +3,13 @@
   {% for post in site.posts %}
 	<a class="dim aspect-ratio aspect-ratio--4x3" href="{{ site.baseurl }}{{ post.url | remove_first:'/'}}">
 		<div class="grid items-center aspect-ratio--object cover center" style="background-image: url({{ site.baseurl }}{{ post.featured-image }}" >
-			<h2 class="tc black f2 no-underline"> {{ post.title }} </h2>
+
+			{% if post.white == true %}
+			<h2 class="tc white f3 no-underline tracked"> {{ post.title }} </h2>
+			{% else %}
+			<h2 class="tc black f3 no-underline tracked"> {{ post.title }} </h2>
+			{% endif %}
+
 		</div>
 	 </a>
   {% endfor %}

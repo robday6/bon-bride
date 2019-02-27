@@ -1,10 +1,18 @@
 {% include header.html %}
-{% include logo-left-black.html %}
+
+{% if page.white == true %}
+	{% include logo-left-white.html %}
+	{% else %}
+	{% include logo-left-black.html %}
+{% endif %}
 
 {% include hero-post.html %}
 
 {% include container.html %}
-{% include multi-image.html %}
+{% include multi-image-post.html %}
+<div class="fr measure">
+{% include next-previous.html %}
+</div>
 {% include container-end.html %}
 
 {% include full-screen-menu.html %}
