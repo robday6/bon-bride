@@ -13,6 +13,12 @@ fields:
 - type: file
   name: hero-image
   label: hero-image
+- type: textarea
+  name: column-1
+  label: column-1
+- type: textarea
+  name: column-2
+  label: column-2
 pages:
 - contact.md
 - services.md
