@@ -23,6 +23,6 @@ fields:
   label: Featured image
   description: Appears on the 'our brides page'
 pages:
-- _posts/kate-ben.md
+- _posts/2019-02-27-kate-ben.md
 - _posts/2019-02-27-cora-rob.md
 - _posts/2019-02-27-emma-chris.md
