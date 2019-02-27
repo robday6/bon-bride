@@ -1,0 +1,18 @@
+---
+label: Contact
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: contact
+- type: text
+  name: title
+  label: Title
+- type: list
+  name: links
+  label: Links
+  default:
+  - Instagram - @bonbride
+  - email - pippacooke@bonbride.com
