@@ -10,8 +10,8 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
+- type: file
   name: hero-image
-  label: Hero image
+  label: hero-image
 pages:
 - services.md
