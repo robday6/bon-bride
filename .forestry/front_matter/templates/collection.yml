@@ -167,5 +167,8 @@ fields:
 - type: text
   name: author
   label: Author
+- type: text
+  name: title
+  label: Title
 pages:
 - collection.md
