@@ -1,7 +1,45 @@
 {% include header.html %}
 {% include logo-left-black.html %}
 
+<div class="grid columns-1 columns-2-ns">
+	<div class=" pa4 pa5-l">
+
+		<div class="f1 f-headline-l mt6 mb5 mv6-l">
+			{{ page.title}}
+		</div>
+
+		<div class=" grid columns-1">
+			<div class="f5 avenir lh-copy mb0">
+			{{ content }}
+			</div>
+				
+			<div class="mt0 mt5-l">
+				<div class="tl tr-l pb3 avenir">
+					<a class="tr dim link no-underline black mb3 mt4" href="{{ page.link-1 }}">
+					{{ page.link-text-1 }}
+					</a>
+				</div>
+				<div class="tl tr-l pb3 avenir">
+					<a class="tr dim link no-underline black mb3" href="{{ page.link-2 }}">
+					{{ page.link-text-2 }}
+					</a>
+				</div>
+				<div class="tl tr-l pb3 avenir">
+					<a class="tr dim link no-underline black mb3" href="{{ page.link-3 }}">
+					{{ page.link-text-3 }}
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="pa4 pa5-ns cover bg-top vh-50 vh-100-ns" style="background-image: url({{ site.baseurl }}{{ page.hero-image }})"">
+		
+	</div>
+</div>
+
+{% include container-end.html %}
 
 {% include full-screen-menu.html %}
 {% include footer.html %}
-	
