@@ -10,11 +10,23 @@ fields:
 - type: text
   name: title
   label: Title
-- type: list
-  name: links
-  label: Links
-  default:
-  - Instagram - @bonbride
-  - email - pippacooke@bonbride.com
+- type: text
+  name: link-text-1
+  label: link-text-1
+- type: text
+  name: link-1
+  label: link-1
+- type: text
+  name: link-text-2
+  label: link-text-2
+- type: text
+  name: link-2
+  label: link-2
+- type: text
+  name: link-text-3
+  label: link-text-3
+- type: text
+  name: link-3
+  label: link-3
 pages:
 - contact.md
