@@ -164,5 +164,8 @@ fields:
 - type: textarea
   name: quote
   label: Quote
+- type: text
+  name: author
+  label: Author
 pages:
 - collection.md
