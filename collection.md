@@ -51,6 +51,6 @@ quote: '"Stripped down sophistication that boasts modernity and refinement. Char
 author: Pippa Cooke - Founder
 
 ---
-Our first collection bridges the gap between fashion and bridal. Taking inspiration from social and cultural movements, looking to empower women and question if they want to dress for themselves or conform to the typical bride.  High necklines, extra long sleeves and loose fits, the dresses possess a relaxed tailoring aesthetic.
+Our first collection bridges the gap between fashion and bridal. Taking inspiration from social and cultural movements, empowering women and questioning if they want to dress for themselves or conform to the typical bride.  High necklines, extra long sleeves and loose fits, the dresses possess a relaxed tailoring aesthetic.
 
 Each dress is made to order in London.
