@@ -22,3 +22,6 @@ fields:
   name: featured-image
   label: Featured image
   description: Appears on the 'our brides page'
+pages:
+- _posts/cora-rob.md
+- _posts/kate-ben.md
