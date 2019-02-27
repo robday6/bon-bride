@@ -16,3 +16,5 @@ fields:
   default:
   - Instagram - @bonbride
   - email - pippacooke@bonbride.com
+pages:
+- contact.md

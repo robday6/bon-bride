@@ -10,6 +10,9 @@ column-1: |-
 
   Instagram - @bonbride
 column-2: ''
+links:
+- Instagram - @bonbride
+- email - pippacooke@bonbride.com
 
 ---
 **Address**

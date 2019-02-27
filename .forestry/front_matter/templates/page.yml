@@ -20,5 +20,4 @@ fields:
   name: column-2
   label: column-2
 pages:
-- contact.md
 - services.md
