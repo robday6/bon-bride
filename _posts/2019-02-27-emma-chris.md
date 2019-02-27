@@ -6,7 +6,7 @@ next-url: ''
 previous-url: ''
 featured-image: ''
 date: 2019-02-27 10:35:51 +0000
-layout: our-brides
+layout: post
 white: false
 permalink: emma-and-chris.html
 
